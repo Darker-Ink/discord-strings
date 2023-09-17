@@ -86,6 +86,6 @@ const currentJs = fs.readFileSync(path.join(__dirname, "../saves/current.js"), "
 const strings = fetchStrings(currentJs);
 
 fs.writeFileSync(
-    path.join(__dirname, "../saves/strings.json"),
+    path.join(__dirname, "../saves/Strings.json"),
     JSON.stringify(strings, null, 4)
 );
