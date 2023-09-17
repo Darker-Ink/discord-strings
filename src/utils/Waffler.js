@@ -1,3 +1,7 @@
+const { parse } = require('espree')
+const fs = require("fs");
+const path = require("path");
+
 function fetchStrings(file) {
     const tree = parse(file, {
         ecmaVersion: 2022,
@@ -78,10 +82,10 @@ function fetchStrings(file) {
     return allStrings;
 }
 
-const currentJs = fs.readFileSync(path.join(__dirname, "./saves/current.js"), "utf8");
+const currentJs = fs.readFileSync(path.join(__dirname, "../saves/current.js"), "utf8");
 const strings = fetchStrings(currentJs);
 
 fs.writeFileSync(
-    path.join(__dirname, "./saves/strings.json"),
+    path.join(__dirname, "../saves/strings.json"),
     JSON.stringify(strings, null, 4)
 );

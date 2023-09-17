@@ -1,7 +1,6 @@
-const { parse } = require("espree");
-const fs = require("fs");
-const path = require("path");
+const config = require('../config.json')
 const { spawn } = require('child_process');
+const { Octokit } = require('octokit');
 const term = require('terminal-kit').terminal;
 
 const runStuff = () => {
@@ -61,6 +60,7 @@ const runStuff = () => {
                 term.cyan(`[${new Date().toLocaleString('Us', { hour12: false })} Server] Pushed\n`);
             });
         }
+
     }, Number(config.Interval));
 
 })();
