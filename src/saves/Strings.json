@@ -29,6 +29,7 @@
     "EMAIL_VERIFICATION_INSTRUCTIONS_HEADER": "\"Instructions Sent\"",
     "EMAIL_VERIFICATION_INSTRUCTIONS_BODY": "\"\\nWe sent instructions to change your password to **!!{email}!!**, please check both your inbox and spam folder.\\n  \"",
     "HELP": "\"Help\"",
+    "GOT_IT": "\"Got It\"",
     "ALL_DONE": "\"All done\"",
     "UPDATE": "\"Update\"",
     "SUBMIT": "\"Submit\"",

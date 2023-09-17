@@ -31,6 +31,16 @@ const runStuff = () => {
 
     let lastCommit = FirstSha;
 
+    if (config.commitStrings) {
+        const Pushing = spawn('git', ['add', '.', '&&', 'git', 'commit', '-m', `"${config.commitsMsg}"`, '&&', 'git', 'push'], {
+            shell: true, stdio: 'inherit'
+        });
+
+        Pushing.on('close', () => {
+            term.cyan(`[${new Date().toLocaleString('Us', { hour12: false })} Server] Pushed\n`);
+        });
+    }
+
     setInterval(async () => {
         const { data: { object: { sha } } } = await octokit.rest.git.getRef({
             owner: config.RepoOwner,
