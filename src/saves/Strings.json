@@ -14674,6 +14674,7 @@
     "COLLECTIBLES_DETAILS_MODAL_INCLUDED_WITH_PREMIUM_DISCLAIMER": "\"This bonus decoration is yours to keep and use anytime with an active Nitro subscription.\"",
     "COLLECTIBLES_PURCHASE_DISCLAIMER_PAYMENT": "\"Hey! This purchase is non-refundable. Once you complete your purchase, the item will be available for use immediately and can be accessed in your User Profile settings. Note that Nitro subscriptions become non-refundable once you’ve purchased an item.\"",
     "COLLECTIBLES_SUBSCRIPTION_TOOLTIP_TEXT": "\"{price} monthly Nitro subscription\"",
+    "COLLECTIBLES_PREMIUM_DISCOUNT_TOOLTIP_TEXT": "\"Nitro subscribers get a discount on this decoration\"",
     "COLLECTIBLES_NON_PREMIUM_PRICE": "\"{price} with Nitro\"",
     "COLLECTIBLES_COACHMARK_HEADER": "\"Add style to your avatar\"",
     "COLLECTIBLES_COACHMARK_HEADER_PREMIUM": "\"Ready for a new look?\"",
