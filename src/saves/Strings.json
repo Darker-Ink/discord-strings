@@ -394,6 +394,7 @@
     "MENTION_ROLE_AUTOCOMPLETE_DESCRIPTION_MOBILE": "\"Notify users with this role in this channel.\"",
     "COMMANDS_OPTION_COUNT": "\"+{count, plural, =1 {# option} other {# options}}\"",
     "COMMANDS_OPTIONAL_HEADER": "\"Optional\"",
+    "COMMANDS_OPTIONAL_OPTIONS_LIST_HEADER": "\"Options\"",
     "COMMANDS_OPTIONAL_COUNT": "\"+{count} optional\"",
     "COMMANDS_OPTIONAL_COUNT_REMAINING": "\"+{count} more\"",
     "STICKERS_YOU_MIGHT_LIKE": "\"Stickers you might like\"",
