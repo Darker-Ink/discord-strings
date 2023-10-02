@@ -16110,6 +16110,8 @@
     "MEMBER_SAFETY_ACTION_NOTICE_SELECTED_MEMBERS_MESSAGE": "\"{count, plural, one {1 member selected} other {{count} members selected}}\"",
     "MEMBER_SAFETY_ACTION_NOTICE_CLEAR_SELECTION": "\"Clear selection\"",
     "MEMBER_SAFETY_ACTION_NOTICE_BAN_ACTION": "\"Ban Members\"",
+    "MEMBER_SAFETY_ACTION_PERMISSIONS_MISSING": "\"Cannot action this member\"",
+    "MEMBER_SAFETY_CANNOT_SELECT_ALL": "\"There are no actionable members\"",
     "BAN_MULTIPLE_CONFIRM_TITLE": "\"Would you like to ban {count, plural, one {1 member} other {{count} members}}?\"",
     "BAN_MULTIPLE_SUCCESS_TOAST": "\"Mass ban succesful\"",
     "BAN_MULTIPLE_FAILED_TOAST": "\"Mass ban failed\"",
