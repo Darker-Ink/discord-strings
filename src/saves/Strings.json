@@ -15112,7 +15112,7 @@
     "GUILD_ROLE_SUBSCRIPTION_SETTINGS_PAYMENT_TEAM_SECTION_SELECT_TEAM_CTA": "\"Select Your Payment Team\"",
     "GUILD_ROLE_SUBSCRIPTION_SETTINGS_PAYMENT_TEAM_SECTION_MODAL_TITLE": "\"Change Payment Team\"",
     "GUILD_ROLE_SUBSCRIPTION_SETTINGS_PAYMENT_TEAM_SECTION_MODAL_SELECT_TEAM_TITLE": "\"Select Payment Team\"",
-    "GUILD_ROLE_SUBSCRIPTION_SETTINGS_PAYMENT_TEAM_SECTION_MODAL_DESCRIPTION": "\"Change the team that payments for server subscriptions will be sent to.\"",
+    "GUILD_ROLE_SUBSCRIPTION_SETTINGS_PAYMENT_TEAM_SECTION_MODAL_DESCRIPTION": "\"Change the team that payments for server monetization will be sent to.\"",
     "GUILD_ROLE_SUBSCRIPTION_SETTINGS_PAYMENT_TEAM_SECTION_TEAM_CHANGE_WARNING_HEADING": "\"Changing your team may affect payout eligibility\"",
     "GUILD_ROLE_SUBSCRIPTION_SETTINGS_PAYMENT_TEAM_SECTION_TEAM_CHANGE_WARNING": "\"To be eligible to receive payment, you must earn a minimum balance of $100 for your first payout, and $25 for each subsequent payout. Any previous team's earnings will not count toward your minimum balance.\"",
     "GUILD_ROLE_SUBSCRIPTION_SETTINGS_PAYMENT_TEAM_SECTION_MODAL_SELECT_TEAM_DESCRIPTION": "\"Select the team that payments for server subscriptions will be sent to.\"",
