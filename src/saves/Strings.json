@@ -14832,6 +14832,7 @@
     "COLLECTIBLES_DAYS_LEFT": "\"{days} days left\"",
     "COLLECTIBLES_LAST_DAY": "\"Last day to buy\"",
     "COLLECTIBLES_DISCORD_SHOP": "\"Discord Shop\"",
+    "COLLECTIBLES_UNLOCK_DISCOUNT": "\"Unlock discount with Nitro\"",
     "MOBILE_TIME_REMAINING_DAYS": "\"{days} days remaining\"",
     "MOBILE_TIME_REMAINING_HOURS_MINUTES_SECONDS": "\"{hours}:{minutes}:{seconds} remaining\"",
     "DIRECTORY_CATEGORY_TOWN_HALL_1": "\"Staff Picks\"",
